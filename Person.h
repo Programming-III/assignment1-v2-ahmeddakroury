@@ -24,7 +24,8 @@ public:
      void display(){
         cout << "Name: " << name << ", ID: " << id << endl;
      }  
-        
+
+    ~Person()  {}
 }; 
 
 #endif
