@@ -5,42 +5,10 @@
 #include "Instructor.h"
 #include "Course.h"
 
-
+// i implemented everyclass in its header , i came late and had no idea :( //
 using namespace std;
 
-// ==================== Person Class Implementation =========================
 
-
-
-
-
-
-
-
-// ==================== Student Class Implementation ====================
-
-
-
-
-
-
-// ==================== Instructor Class Implementation ====================
-
-
-
-
-
-
-// ==================== Course Class Implementation ====================
-
-
-
-
-
-
-
-
-// ==================== Main Function ====================
 int main() {
    
     
