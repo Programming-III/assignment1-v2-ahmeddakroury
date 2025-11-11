@@ -22,6 +22,7 @@ public:
         cout << "Year Level: " << yearLevel << endl;
         cout << "Major: " << major << endl;
     }
+    ~Student()  {}
 };
 
 #endif
